@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: dfdf773aa240e334292ef47429676c0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLeftAttack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 84
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46819377, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a820b3750c1741a7252f02a65ba00
+      internalID: -1616733621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 72
+        width: 90
+        height: 150
+      alignment: 9
+      pivot: {x: 0.23552398, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d547a872f418fa478e3d664beac4662
+      internalID: 1170966322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 72
+        width: 75
+        height: 150
+      alignment: 9
+      pivot: {x: 0.15672079, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648e8d2d4d00c649b5db2463bb22df1
+      internalID: 1495862079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 72
+        width: 86
+        height: 150
+      alignment: 9
+      pivot: {x: 0.09895502, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a113e671b8dfdd42828820b1d3060cf
+      internalID: -497255481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 72
+        width: 86
+        height: 150
+      alignment: 9
+      pivot: {x: 0.08200925, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db781c54fddac41b0bd88049f74a19
+      internalID: 32763228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 72
+        width: 83
+        height: 150
+      alignment: 9
+      pivot: {x: 0.01715382, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569373208c04a3147b4c7dce018b8d42
+      internalID: 994934506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 67
+        width: 64
+        height: 150
+      alignment: 9
+      pivot: {x: 0.03699875, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3775f49ac1f6524286f42638a2a6f79
+      internalID: -618716481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 50
+        width: 70
+        height: 150
+      alignment: 9
+      pivot: {x: 0.028107561, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c0c4d6728899479c4d6b3cd342b30
+      internalID: 1975869787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 50
+        width: 90
+        height: 150
+      alignment: 9
+      pivot: {x: 0.022323947, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc44c911a15e64182ff024afc43428
+      internalID: 410147867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 50
+        width: 96
+        height: 150
+      alignment: 9
+      pivot: {x: 0.021817526, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6c1b114eec384e83fdf3b39edd3aa
+      internalID: 932193236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 72
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.112363875, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b120d3d784f84cba39d97540d094c
+      internalID: 2014736536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 72
+        width: 105
+        height: 150
+      alignment: 9
+      pivot: {x: 0.02670201, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83bf2bedc831a140ac74d210439c9d0
+      internalID: 2117028082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 72
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.025903568, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2b657414b5f714d9ee88e89dc44c6f
+      internalID: -1285104015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 72
+        width: 80
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4094757, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a051f91430964296ae2fe8f610a2c
+      internalID: 1748979778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLeftAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 72
+        width: 77
+        height: 150
+      alignment: 9
+      pivot: {x: 0.27549207, y: 0.3976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9f36534d8017448af03512ca5a845
+      internalID: -1896414384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SLeftAttack_6: -618716481
+      SLeftAttack_3: -497255481
+      SLeftAttack_8: 410147867
+      SLeftAttack_0: -1616733621
+      SLeftAttack_9: 932193236
+      SLeftAttack_13: 1748979778
+      SLeftAttack_10: 2014736536
+      SLeftAttack_5: 994934506
+      SLeftAttack_2: 1495862079
+      SLeftAttack_7: 1975869787
+      SLeftAttack_4: 32763228
+      SLeftAttack_11: 2117028082
+      SLeftAttack_14: -1896414384
+      SLeftAttack_12: -1285104015
+      SLeftAttack_1: 1170966322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

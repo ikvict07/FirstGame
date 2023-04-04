@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 3ba35f9fa2bafda4b924d551c3fa1333
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TRightAttack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 70
+        height: 163
+      alignment: 9
+      pivot: {x: 0.7184604, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01802816ff323e842b33d9b831763f4a
+      internalID: -1894257010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 87
+        width: 74
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5527624, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd5387249f9a645be756a1fc741e8e
+      internalID: 882679292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 85
+        width: 91
+        height: 163
+      alignment: 9
+      pivot: {x: 0.39608026, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a153ef13ca4dd43a7acf4f48fa8af2
+      internalID: -656224026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 78
+        width: 73
+        height: 163
+      alignment: 9
+      pivot: {x: 0.25645885, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad06aec7978234aa9d2dec872e4033
+      internalID: -719472019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 60
+        width: 58
+        height: 163
+      alignment: 9
+      pivot: {x: 0.38695553, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc4dc248c01434188f99b61ee92014
+      internalID: 1234866577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_5
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 60
+        width: 41
+        height: 163
+      alignment: 9
+      pivot: {x: 0.07560321, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50fc7cbe13f9a40b6196d4858c7ee3
+      internalID: -425906198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 61
+        width: 41
+        height: 163
+      alignment: 9
+      pivot: {x: 0.07867878, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374edf6c98876ca48b70ada473a3c069
+      internalID: -820964143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 61
+        width: 56
+        height: 163
+      alignment: 9
+      pivot: {x: 0.27709308, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daed82f444febe4a83a819e1fa79897
+      internalID: -1934359480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 66
+        width: 64
+        height: 163
+      alignment: 9
+      pivot: {x: 0.41331482, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b332df1123264589e2d0170f5914f
+      internalID: -2106661152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 70
+        width: 69
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4652807, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8fc54c69a369444a95414579521f14
+      internalID: 1992892833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 74
+        width: 74
+        height: 163
+      alignment: 9
+      pivot: {x: 0.48466533, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596fe7f682bc4714ea277455a7d3f9d0
+      internalID: 197909429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 77
+        width: 79
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50798094, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd94714f81cca5e4baaaf4166076d327
+      internalID: 1575394373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 83
+        width: 81
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51089895, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb7446a7c6d1640bc529d80147a98d
+      internalID: 258177010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 50
+        width: 87
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50869644, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb1ce8f7e37354d8a8172a35b58251
+      internalID: -804018135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 50
+        width: 121
+        height: 163
+      alignment: 9
+      pivot: {x: 0.36870077, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334bc1fe1283213489679c5579bda5d6
+      internalID: 408561017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 50
+        width: 163
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3321391, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03c23b50830bed459d5516f89c073dc
+      internalID: -628685358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 59
+        width: 115
+        height: 163
+      alignment: 9
+      pivot: {x: 0.017571757, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847aaacf95899cd4ea9dd5ac4a654898
+      internalID: 137829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_17
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 67
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.017764444, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f858f6a87eb446f4f99f282c90f5b09c
+      internalID: 882732614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_18
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 70
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.01796054, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ebbee7d200aef48a0d43184aae3ca2
+      internalID: -1864802987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_19
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 74
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.021309372, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2774b0d1146acc845b7b24fc97030b81
+      internalID: -852790133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_20
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 85
+        width: 112
+        height: 163
+      alignment: 9
+      pivot: {x: 0.017033169, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a49de358f50c46bb45e8de246f94d
+      internalID: 1972420480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_21
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 93
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.019077538, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef8fd3b5e030740ae84eff4a035540
+      internalID: -831213386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_22
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 91
+        width: 104
+        height: 163
+      alignment: 9
+      pivot: {x: 0.018681454, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e327cf70662134bb450808fb1ea4bb
+      internalID: -1277909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 89
+        width: 102
+        height: 163
+      alignment: 9
+      pivot: {x: 0.019129137, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc425d9ab9188d448846e033db5a026a
+      internalID: 213384397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_24
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 87
+        width: 104
+        height: 163
+      alignment: 9
+      pivot: {x: 0.019892765, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c78b0e2042a0745af625f6e2af85c5
+      internalID: 1480570655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_25
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 87
+        width: 94
+        height: 163
+      alignment: 9
+      pivot: {x: 0.022471327, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de0f6c32cb7e540a8498ae9665f149
+      internalID: 2085191442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_26
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 86
+        width: 76
+        height: 163
+      alignment: 9
+      pivot: {x: 0.025506271, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7f668325ca5b438aeb105678b90cc
+      internalID: 516176689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRightAttack_27
+      rect:
+        serializedVersion: 2
+        x: 5153
+        y: 85
+        width: 66
+        height: 163
+      alignment: 9
+      pivot: {x: 0.1866862, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18a65c10246d3429961b38166e0da5
+      internalID: -230186923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TRightAttack_13: -804018135
+      TRightAttack_27: -230186923
+      TRightAttack_15: -628685358
+      TRightAttack_14: 408561017
+      TRightAttack_20: 1972420480
+      TRightAttack_21: -831213386
+      TRightAttack_5: -425906198
+      TRightAttack_18: -1864802987
+      TRightAttack_22: -1277909861
+      TRightAttack_10: 197909429
+      TRightAttack_9: 1992892833
+      TRightAttack_3: -719472019
+      TRightAttack_8: -2106661152
+      TRightAttack_17: 882732614
+      TRightAttack_1: 882679292
+      TRightAttack_11: 1575394373
+      TRightAttack_23: 213384397
+      TRightAttack_2: -656224026
+      TRightAttack_16: 137829843
+      TRightAttack_12: 258177010
+      TRightAttack_6: -820964143
+      TRightAttack_24: 1480570655
+      TRightAttack_26: 516176689
+      TRightAttack_0: -1894257010
+      TRightAttack_4: 1234866577
+      TRightAttack_19: -852790133
+      TRightAttack_25: 2085191442
+      TRightAttack_7: -1934359480
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

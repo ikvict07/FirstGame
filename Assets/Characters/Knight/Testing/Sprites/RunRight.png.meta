@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: a4923e12a5f325d45a5217186e06e137
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunRight_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 92
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5514229, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1371829f17f84ebd78539f06ffe2f
+      internalID: -918868179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 74
+        width: 71
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32865757, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db357259ac08f4caf55ccc99cdae2f
+      internalID: 482275046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 74
+        width: 86
+        height: 150
+      alignment: 9
+      pivot: {x: 0.40962398, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3138bc7341f5b204dbc926c888258afd
+      internalID: 826982266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 72
+        width: 88
+        height: 150
+      alignment: 9
+      pivot: {x: 0.38095716, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348fbf05d7f9274ba0b6748b9a8d3c3
+      internalID: -146002928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 72
+        width: 91
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4257303, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7e846569e6db4c82ef802d6b83d6d
+      internalID: -2105745681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 75
+        width: 93
+        height: 150
+      alignment: 9
+      pivot: {x: 0.478198, y: 0.37666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7cb53557ef4045943aac29ef0b6e1
+      internalID: -1509084230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_6
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 75
+        width: 93
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51090103, y: 0.36333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8505c72f60394cbb1eaec7ff34e7f
+      internalID: 474994931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_7
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 73
+        width: 103
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5656158, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f5463e03eb6f4caa2cdc8d5160557
+      internalID: -904237919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_8
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 70
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5750942, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762ab7a2090d8c47968a05f633e915f
+      internalID: 1684897797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_9
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 72
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5540674, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9dcb978d2d94489cd4d28bd344bf4
+      internalID: -899010118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_10
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 73
+        width: 92
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51101816, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a785cdf079920f4991d1712e4aaec94
+      internalID: -211198661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 74
+        width: 72
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3591987, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b6092980ea57468370973ce63f65c
+      internalID: -292008530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_12
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 73
+        width: 78
+        height: 150
+      alignment: 9
+      pivot: {x: 0.47833723, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde73d2a7bec6dd42a9cf741a11f9655
+      internalID: 1785717059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_13
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 72
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.51826435, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d109bcb0ef48e648b1f14c310c282b1
+      internalID: -610524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_14
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 71
+        width: 89
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5037965, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b388ceee95ee848a034109decf4894
+      internalID: 244697222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_15
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 66
+        width: 89
+        height: 150
+      alignment: 9
+      pivot: {x: 0.545561, y: 0.37666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a0b797d78ead499d3e2dfa9a6b2ae
+      internalID: 75248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_16
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 57
+        width: 81
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6460172, y: 0.35666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4f39de7095e8489d987b35631db29
+      internalID: 1190172231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_17
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 60
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6297077, y: 0.38333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049b2246ec93d84192e280393f473d9
+      internalID: 1436284109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_18
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 61
+        width: 92
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6395768, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3eeb683b11eac429e778e5d046a62f
+      internalID: -1115857649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunRight_19
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 65
+        width: 90
+        height: 150
+      alignment: 9
+      pivot: {x: 0.62014973, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e0016146fa684f8d48192ceb56863
+      internalID: 1221074321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RunRight_19: 1221074321
+      RunRight_18: -1115857649
+      RunRight_12: 1785717059
+      RunRight_4: -2105745681
+      RunRight_6: 474994931
+      RunRight_11: -292008530
+      RunRight_2: 826982266
+      RunRight_16: 1190172231
+      RunRight_9: -899010118
+      RunRight_1: 482275046
+      RunRight_14: 244697222
+      RunRight_10: -211198661
+      RunRight_15: 75248128
+      RunRight_5: -1509084230
+      RunRight_8: 1684897797
+      RunRight_13: -610524365
+      RunRight_0: -918868179
+      RunRight_7: -904237919
+      RunRight_3: -146002928
+      RunRight_17: 1436284109
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 509aad1b3d7b7c9458b1900c17ebb45e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SRightAttack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 89
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4394778, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6dcb84a8dd03c4fbb203caf4caafd5
+      internalID: -314411312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 64
+        width: 90
+        height: 142
+      alignment: 9
+      pivot: {x: 0.43050572, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158e3b73adfc7a43a867c3a117f1521
+      internalID: -243596378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 64
+        width: 75
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4647815, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f842208efe2c84fb3822f70fa86fb3
+      internalID: -2102912400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 65
+        width: 79
+        height: 142
+      alignment: 9
+      pivot: {x: 0.40214366, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9a769c2ed4494782aed64b48a3f4c
+      internalID: -224878502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 66
+        width: 85
+        height: 142
+      alignment: 9
+      pivot: {x: 0.33835807, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d785d1483664164b9a14c68ff5213b1
+      internalID: 1488482016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 66
+        width: 84
+        height: 142
+      alignment: 9
+      pivot: {x: 0.30703154, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c4260ccebf9044b881bd35fd1953aa
+      internalID: 1166872940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 59
+        width: 54
+        height: 142
+      alignment: 9
+      pivot: {x: 0.032124836, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2034e265bde5244c8be929eee8c0a22
+      internalID: -1181374418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 50
+        width: 59
+        height: 142
+      alignment: 9
+      pivot: {x: 0.052022643, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc03553870fd0b4ab2ab1de7e23d4f5
+      internalID: -906978911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 50
+        width: 70
+        height: 142
+      alignment: 9
+      pivot: {x: 0.019316755, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786656b3b3aca4459d9619fad89a4ce
+      internalID: -72603090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 50
+        width: 88
+        height: 142
+      alignment: 9
+      pivot: {x: 0.018009532, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b57c383fd3014e8aa43eb50104558
+      internalID: -91966556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 68
+        width: 83
+        height: 142
+      alignment: 9
+      pivot: {x: 0.023241892, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b5e66ac7fd18943a0d92a2f694ad81
+      internalID: 2015383529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 68
+        width: 102
+        height: 142
+      alignment: 9
+      pivot: {x: 0.015926585, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84ddf42bf62a2499793fe10a0a1df4
+      internalID: 1951567890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 68
+        width: 98
+        height: 142
+      alignment: 9
+      pivot: {x: 0.01918746, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7371ea0eb0f7044b467feaa602c89e
+      internalID: 2105111815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 67
+        width: 68
+        height: 142
+      alignment: 9
+      pivot: {x: 0.32967243, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57249ae8e01df4882d4f1cc012350f
+      internalID: -1111571766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRightAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 65
+        width: 65
+        height: 142
+      alignment: 9
+      pivot: {x: 0.10523212, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83b03ec78dfee4cb6054be2a892206
+      internalID: -2133861581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SRightAttack_11: 1951567890
+      SRightAttack_2: -2102912400
+      SRightAttack_8: -72603090
+      SRightAttack_13: -1111571766
+      SRightAttack_14: -2133861581
+      SRightAttack_4: 1488482016
+      SRightAttack_1: -243596378
+      SRightAttack_6: -1181374418
+      SRightAttack_10: 2015383529
+      SRightAttack_9: -91966556
+      SRightAttack_0: -314411312
+      SRightAttack_12: 2105111815
+      SRightAttack_7: -906978911
+      SRightAttack_5: 1166872940
+      SRightAttack_3: -224878502
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

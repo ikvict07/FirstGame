@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 66bbdebaa6a158e47ae15bd6dafbdd1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TLeftAttack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 62
+        height: 163
+      alignment: 9
+      pivot: {x: 0.7165168, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f75e4a42150bc418ecfcd05c5b1e23
+      internalID: -1718958006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 70
+        height: 163
+      alignment: 9
+      pivot: {x: 0.6834351, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255aa4db73ad59848af97cbcaa261d81
+      internalID: 529492023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 85
+        width: 79
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5406324, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a443fc6a00af374196300b919a792e6
+      internalID: -1098766349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 85
+        width: 86
+        height: 163
+      alignment: 9
+      pivot: {x: 0.39413878, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b498632e59f2a4e856205e0eb6e51d
+      internalID: 1522372788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 78
+        width: 74
+        height: 163
+      alignment: 9
+      pivot: {x: 0.38209906, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8019a59a7f3f6489197fb7940733a1
+      internalID: 1840455397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 60
+        width: 52
+        height: 163
+      alignment: 9
+      pivot: {x: 0.48905945, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4594bb95bd60169498c1748d9855d5e6
+      internalID: 1151999707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 60
+        width: 57
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3802105, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af6bc1dd1c341b409519fc939a1bb63
+      internalID: -1306722551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 61
+        width: 56
+        height: 163
+      alignment: 9
+      pivot: {x: 0.40855408, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0eba26df20ab43addf05f7fa3cdeb
+      internalID: 277584797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 66
+        width: 65
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22664a3376a4cc74eabdbb95b544ab2a
+      internalID: 850272496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 70
+        width: 69
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4752622, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a56e85bc1b330438e798a09ead0a6f
+      internalID: -250324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 74
+        width: 71
+        height: 163
+      alignment: 9
+      pivot: {x: 0.53472817, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc99ee81056da840b47b01e4996d652
+      internalID: 1636473002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 77
+        width: 76
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52745295, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edde5b2850d365408612fcb6162b0b3
+      internalID: -1902016509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 83
+        width: 78
+        height: 163
+      alignment: 9
+      pivot: {x: 0.502432, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1c29c8bd163e4d885ce224576d3bb
+      internalID: -2058517665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 50
+        width: 89
+        height: 163
+      alignment: 9
+      pivot: {x: 0.47868845, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e9e600bcd0e24f862e89b0a5b0389
+      internalID: 1154117280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 50
+        width: 121
+        height: 163
+      alignment: 9
+      pivot: {x: 0.33854637, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae6137f2851e74cbc73c2ee4823f5c
+      internalID: 1830536290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 50
+        width: 163
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3370953, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d24decfe0e376488c4cbfb3ed82054
+      internalID: -1417172772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 59
+        width: 115
+        height: 163
+      alignment: 9
+      pivot: {x: 0.016756538, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd98c46fab101c42bedc62346d97bcd
+      internalID: -2025784384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_17
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 67
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.020837616, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db456f646b7874f810da4b15057710
+      internalID: -1064993262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_18
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 70
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.013239767, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054774d055666544c84c3151b58f7117
+      internalID: -51622926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_19
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 74
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.014918504, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1421b8fcfb5500429554315e1d216ed
+      internalID: 1837108798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_20
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 86
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.018275978, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5a41449f181304eb90b8fc2698ba83
+      internalID: 721607190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_21
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 93
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.016597241, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fe4d4582f7f1459e2c9510e347e0e
+      internalID: 1507487057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_22
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 91
+        width: 107
+        height: 163
+      alignment: 9
+      pivot: {x: 0.014306184, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26348421740a2345adb56d31674bdfe
+      internalID: 5754424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 89
+        width: 107
+        height: 163
+      alignment: 9
+      pivot: {x: 0.017851928, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaee2f65058134db05ddbe90f8766f
+      internalID: 770815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_24
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 87
+        width: 102
+        height: 163
+      alignment: 9
+      pivot: {x: 0.012810202, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a652aaf79e513439ea3fbe04d99811
+      internalID: -232105898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_25
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 87
+        width: 96
+        height: 163
+      alignment: 9
+      pivot: {x: 0.025828043, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307c80c305eaa14ba669d43f43b99ae
+      internalID: -785398704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_26
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 86
+        width: 81
+        height: 163
+      alignment: 9
+      pivot: {x: 0.034022957, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83407f3c6b1d27e46842c3df50e9a084
+      internalID: 1518157781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLeftAttack_27
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 85
+        width: 80
+        height: 163
+      alignment: 9
+      pivot: {x: 0.23946533, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bed71a3c1ad54d90a8d4c7127c7be
+      internalID: -1916368161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TLeftAttack_8: 850272496
+      TLeftAttack_26: 1518157781
+      TLeftAttack_25: -785398704
+      TLeftAttack_9: -250324867
+      TLeftAttack_3: 1522372788
+      TLeftAttack_12: -2058517665
+      TLeftAttack_15: -1417172772
+      TLeftAttack_20: 721607190
+      TLeftAttack_0: -1718958006
+      TLeftAttack_5: 1151999707
+      TLeftAttack_22: 5754424
+      TLeftAttack_4: 1840455397
+      TLeftAttack_10: 1636473002
+      TLeftAttack_21: 1507487057
+      TLeftAttack_23: 770815553
+      TLeftAttack_6: -1306722551
+      TLeftAttack_11: -1902016509
+      TLeftAttack_14: 1830536290
+      TLeftAttack_1: 529492023
+      TLeftAttack_24: -232105898
+      TLeftAttack_27: -1916368161
+      TLeftAttack_19: 1837108798
+      TLeftAttack_18: -51622926
+      TLeftAttack_2: -1098766349
+      TLeftAttack_16: -2025784384
+      TLeftAttack_13: 1154117280
+      TLeftAttack_7: 277584797
+      TLeftAttack_17: -1064993262
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

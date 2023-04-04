@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: d72208c684d275649a57f182c50087c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlienWalk_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 99
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5880609, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f6b7ec0d77dc4990b90bbc1a3524e
+      internalID: 114177554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 53
+        width: 100
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5735065, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d264e537ba014cbc3dd0c6d6ec47f
+      internalID: 1012368469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 53
+        width: 101
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5727784, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc290ef0f78ded4a99fb194d7ce8bc9
+      internalID: -1475801864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 52
+        width: 101
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5863182, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d876995608d8488d1865ec5f686a6
+      internalID: 1944437401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 51
+        width: 104
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6002637, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c70c072bbf2246899951dd9d25d90
+      internalID: 745058861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 52
+        width: 109
+        height: 126
+      alignment: 9
+      pivot: {x: 0.58311754, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d604ac86dc9f1c4e841e2d9e0027715
+      internalID: -595265580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 53
+        width: 105
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5895415, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28799daf79e6c1f468e845a3107ee12d
+      internalID: 434221154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_7
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 53
+        width: 109
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5815497, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10759a34b914a164296575434308da0a
+      internalID: 1979249192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 54
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5924006, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf07884f9d19b7419af40304ced4598
+      internalID: 933929796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 55
+        width: 104
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6019076, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554b19b6b1bd1b48a03811c3141dc8e
+      internalID: -1682506335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_10
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 56
+        width: 105
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5862839, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91070df52ed2c42a4c43d51ea4b508
+      internalID: 1056634024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_11
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 56
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5904972, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc31c358dd5dc4dbf94fab41409393
+      internalID: -616859199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_12
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 55
+        width: 101
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5846225, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef92e5521301e1a4d8da2eab435dc263
+      internalID: -400953446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_13
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 56
+        width: 104
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5706764, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f9e23ec2e4194499e97b0ff3806d1
+      internalID: -33869520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_14
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 55
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5770886, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40409b691ded6e444bce4d1726a7f3a9
+      internalID: 625130611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_15
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 55
+        width: 98
+        height: 126
+      alignment: 9
+      pivot: {x: 0.60116637, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7d007faf25c80468dc88feb18665a3
+      internalID: -940446708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_16
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 55
+        width: 103
+        height: 126
+      alignment: 9
+      pivot: {x: 0.57302177, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2dfd2426ce42548a7d7005237bb057
+      internalID: -480443428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_17
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 53
+        width: 97
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5951595, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee85d61fed17f498fc32f9b4cc42a7
+      internalID: -699302089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_18
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 54
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: 0.58902997, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef7ea400688444d9d22a32a10a417b
+      internalID: -1968405061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_19
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 53
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: 0.60327405, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d30691e778214c9aee613b3e00f3f
+      internalID: -1351428271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_20
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 53
+        width: 99
+        height: 126
+      alignment: 9
+      pivot: {x: 0.643313, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225f5692f0891c4696a7229afaf12c0
+      internalID: -21303755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_21
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 54
+        width: 98
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6412827, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b5b6f86e8f99469fcccbda596cdef
+      internalID: 1641095038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_22
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 55
+        width: 103
+        height: 126
+      alignment: 9
+      pivot: {x: 0.61284983, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95daed8147eeca43ba96f3cf56bb104
+      internalID: 1124578992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_23
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 54
+        width: 108
+        height: 126
+      alignment: 9
+      pivot: {x: 0.59496164, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089f4a725fb7a74a9a62781dbe00fb7
+      internalID: -1105392585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_24
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 54
+        width: 109
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5909547, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211b0576f1633a4095f9bf390f181b3
+      internalID: 2060334071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_25
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 55
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6173072, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e845d83091e8d40b5a6ace1fce7d2c
+      internalID: 1487966017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_26
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 56
+        width: 99
+        height: 126
+      alignment: 9
+      pivot: {x: 0.62258816, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e4f2caeda92f4088cce9bae00f366
+      internalID: 384509113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_27
+      rect:
+        serializedVersion: 2
+        x: 5542
+        y: 57
+        width: 99
+        height: 126
+      alignment: 9
+      pivot: {x: 0.60014206, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57e927c7137f84ea26d9700f3fa5f5
+      internalID: -210572186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_28
+      rect:
+        serializedVersion: 2
+        x: 5743
+        y: 55
+        width: 98
+        height: 126
+      alignment: 9
+      pivot: {x: 0.61511976, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96aacfc2236ad142a1ce5d0e93a1ff7
+      internalID: 1228466522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_29
+      rect:
+        serializedVersion: 2
+        x: 5941
+        y: 56
+        width: 93
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6323347, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72444936b145134784dab0093a4f48c
+      internalID: -1552712713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_30
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 55
+        width: 93
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6304971, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd997541880ce47bed6c82681f6569
+      internalID: 103019725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienWalk_31
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 55
+        width: 100
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5820459, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9de68bf8bd68347821fe3355fdad8a
+      internalID: 1670163860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AlienWalk_10: 1056634024
+      AlienWalk_16: -480443428
+      AlienWalk_29: -1552712713
+      AlienWalk_18: -1968405061
+      AlienWalk_25: 1487966017
+      AlienWalk_23: -1105392585
+      AlienWalk_27: -210572186
+      AlienWalk_15: -940446708
+      AlienWalk_8: 933929796
+      AlienWalk_2: -1475801864
+      AlienWalk_5: -595265580
+      AlienWalk_6: 434221154
+      AlienWalk_9: -1682506335
+      AlienWalk_11: -616859199
+      AlienWalk_30: 103019725
+      AlienWalk_0: 114177554
+      AlienWalk_7: 1979249192
+      AlienWalk_13: -33869520
+      AlienWalk_21: 1641095038
+      AlienWalk_31: 1670163860
+      AlienWalk_28: 1228466522
+      AlienWalk_17: -699302089
+      AlienWalk_12: -400953446
+      AlienWalk_20: -21303755
+      AlienWalk_4: 745058861
+      AlienWalk_22: 1124578992
+      AlienWalk_26: 384509113
+      AlienWalk_3: 1944437401
+      AlienWalk_19: -1351428271
+      AlienWalk_24: 2060334071
+      AlienWalk_1: 1012368469
+      AlienWalk_14: 625130611
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
