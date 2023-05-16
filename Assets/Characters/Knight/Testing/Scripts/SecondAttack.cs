@@ -6,29 +6,44 @@ using UnityEngine;
 
 public class SecondAttack : StateMachineBehaviour
 {
+
+    public KnightAttack knightAttack;
+    private KnightCombatController knightCombatController;
+    
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        KnightMovement movement = animator.GetComponent<KnightMovement>();
         animator.SetBool("ContinueAttack", false);
+        knightAttack = animator.GetComponent<KnightAttack>();
+        knightCombatController = animator.GetComponent<KnightCombatController>();
+        knightCombatController.didAttack = false;
+
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (Input.GetMouseButtonDown(0))
+        if (knightAttack.doAttack)
         {
             animator.SetBool("ContinueAttack", true);
+            knightAttack.doAttack = false;
+
+        }
+
+        if (knightCombatController.attackFrame && !knightCombatController.didAttack)
+        {
+            knightCombatController.DoAttack();
         }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        // if (!animator.GetBool("ContinueAttack"))
-        // {
-        //     animator.SetBool("Attacking", false);
-        // }
+        if (!animator.GetBool("ContinueAttack"))
+        {
+            animator.SetBool("Attacking", false);
+        }
+
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

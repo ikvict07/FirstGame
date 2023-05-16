@@ -82,9 +82,11 @@ public class KnightAttack : MonoBehaviour
     [SerializeField] private Animator anim;
     [SerializeField] private Transform attackRangeTransform;
     [SerializeField] private Rigidbody2D rb;
-    [SerializeField] public float attackRadius = 2.5f;
+    
+    [SerializeField] public float attackRadius;
     [SerializeField] public float attackCooldown = 0.7f;
     [SerializeField] public int baseDamage = 40;
+    [SerializeField] public bool doAttack;
 
     private bool canAttack = true;
 
@@ -99,16 +101,17 @@ public class KnightAttack : MonoBehaviour
     private void Update()
     {
         
-        if (Input.GetMouseButtonDown(0))
+        if (doAttack)
             StartCoroutine(Attack());
     }
 
     private IEnumerator Attack()
     {
         if (!canAttack || anim.GetBool("Attacking")) yield break;
+        doAttack = false;
 
         canAttack = false;
-        rb.velocity = new Vector2(0, rb.velocity.y);
+        // rb.velocity = new Vector2(0, rb.velocity.y);
         anim.Play(knightMovement.isFacingRight ? "AttackRight" : "AttackLeft");
         yield return new WaitForSeconds(attackCooldown);
         canAttack = true;

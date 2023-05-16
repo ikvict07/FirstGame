@@ -66,36 +66,45 @@ using UnityEngine;
 
 public class AnimKnightAttack : StateMachineBehaviour {
 
-    [SerializeField] private Transform attackRangeTransform;
-    [SerializeField] private float attackRadius;
-    [SerializeField] private LayerMask enemyLayers;
-    [SerializeField] private int baseDamage;
-
+    
+    public KnightAttack knightAttack;
+    private KnightCombatController knightCombatController;
+    
     private GameObject knight;
 
     public override void OnStateEnter (Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        attackRangeTransform = GameObject.FindGameObjectWithTag ("AttackRange")?.transform;
-        enemyLayers = LayerMask.GetMask ("Enemy");
+
         knight = GameObject.FindGameObjectWithTag ("Knight");
         animator.SetBool("Attacking", true);
+        
+        knightAttack = animator.GetComponent<KnightAttack>();
+
+        knightCombatController = animator.GetComponent<KnightCombatController>();
+        knightCombatController.didAttack = false;
+        
+
     }
 
     public override void OnStateUpdate (Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        if (Input.GetMouseButtonDown(0))
+        if (knightAttack.doAttack)
         {
             animator.SetBool("ContinueAttack", true);
+            knightAttack.doAttack = false;
         }
-        
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll (attackRangeTransform?.position ?? Vector3.zero, attackRadius, enemyLayers);
-        foreach (Collider2D enemy in hitEnemies) {
-            //enemy.GetComponent<Enemy>().takeDamage(baseDamage);
+        if (knightCombatController.attackFrame && !knightCombatController.didAttack)
+        {
+            knightCombatController.DoAttack();
         }
+
     }
 
     public override void OnStateExit (Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
         if (!animator.GetBool("ContinueAttack"))
         {
+
+
             animator.SetBool("Attacking", false);
+            
         }
     }
 }

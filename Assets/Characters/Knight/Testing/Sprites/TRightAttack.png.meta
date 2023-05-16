@@ -161,7 +161,7 @@ TextureImporter:
         width: 70
         height: 163
       alignment: 9
-      pivot: {x: 0.7184604, y: 0.365}
+      pivot: {x: 0.46028268, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -182,7 +182,7 @@ TextureImporter:
         width: 74
         height: 163
       alignment: 9
-      pivot: {x: 0.5527624, y: 0.365}
+      pivot: {x: 0.38899046, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -203,7 +203,7 @@ TextureImporter:
         width: 91
         height: 163
       alignment: 9
-      pivot: {x: 0.39608026, y: 0.365}
+      pivot: {x: 0.39608026, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,7 +224,7 @@ TextureImporter:
         width: 73
         height: 163
       alignment: 9
-      pivot: {x: 0.25645885, y: 0.365}
+      pivot: {x: 0.37004948, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -245,7 +245,7 @@ TextureImporter:
         width: 58
         height: 163
       alignment: 9
-      pivot: {x: 0.38695553, y: 0.365}
+      pivot: {x: 0.52992195, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -266,7 +266,7 @@ TextureImporter:
         width: 41
         height: 163
       alignment: 9
-      pivot: {x: 0.07560321, y: 0.365}
+      pivot: {x: 0.39712152, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -287,7 +287,7 @@ TextureImporter:
         width: 41
         height: 163
       alignment: 9
-      pivot: {x: 0.07867878, y: 0.365}
+      pivot: {x: 0.3950106, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -308,7 +308,7 @@ TextureImporter:
         width: 56
         height: 163
       alignment: 9
-      pivot: {x: 0.27709308, y: 0.365}
+      pivot: {x: 0.5124904, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -329,7 +329,7 @@ TextureImporter:
         width: 64
         height: 163
       alignment: 9
-      pivot: {x: 0.41331482, y: 0.365}
+      pivot: {x: 0.6159668, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -350,7 +350,7 @@ TextureImporter:
         width: 69
         height: 163
       alignment: 9
-      pivot: {x: 0.4652807, y: 0.365}
+      pivot: {x: 0.6470841, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -371,7 +371,7 @@ TextureImporter:
         width: 74
         height: 163
       alignment: 9
-      pivot: {x: 0.48466533, y: 0.365}
+      pivot: {x: 0.6656774, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -392,7 +392,7 @@ TextureImporter:
         width: 79
         height: 163
       alignment: 9
-      pivot: {x: 0.50798094, y: 0.365}
+      pivot: {x: 0.6802283, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -413,7 +413,7 @@ TextureImporter:
         width: 81
         height: 163
       alignment: 9
-      pivot: {x: 0.51089895, y: 0.365}
+      pivot: {x: 0.67626953, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -434,7 +434,7 @@ TextureImporter:
         width: 87
         height: 163
       alignment: 9
-      pivot: {x: 0.50869644, y: 0.365}
+      pivot: {x: 0.7237591, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -455,7 +455,7 @@ TextureImporter:
         width: 121
         height: 163
       alignment: 9
-      pivot: {x: 0.36870077, y: 0.365}
+      pivot: {x: 0.62173337, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -476,7 +476,7 @@ TextureImporter:
         width: 163
         height: 163
       alignment: 9
-      pivot: {x: 0.3321391, y: 0.365}
+      pivot: {x: 0.54345256, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -497,7 +497,7 @@ TextureImporter:
         width: 115
         height: 163
       alignment: 9
-      pivot: {x: 0.017571757, y: 0.365}
+      pivot: {x: 0.33372536, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -518,7 +518,7 @@ TextureImporter:
         width: 114
         height: 163
       alignment: 9
-      pivot: {x: 0.017764444, y: 0.365}
+      pivot: {x: 0.33482602, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -539,7 +539,7 @@ TextureImporter:
         width: 113
         height: 163
       alignment: 9
-      pivot: {x: 0.01796054, y: 0.365}
+      pivot: {x: 0.34159163, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -560,7 +560,7 @@ TextureImporter:
         width: 113
         height: 163
       alignment: 9
-      pivot: {x: 0.021309372, y: 0.365}
+      pivot: {x: 0.329888, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -581,7 +581,7 @@ TextureImporter:
         width: 112
         height: 163
       alignment: 9
-      pivot: {x: 0.017033169, y: 0.365}
+      pivot: {x: 0.3435538, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -602,7 +602,7 @@ TextureImporter:
         width: 113
         height: 163
       alignment: 9
-      pivot: {x: 0.019077538, y: 0.365}
+      pivot: {x: 0.33894497, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -623,7 +623,7 @@ TextureImporter:
         width: 104
         height: 163
       alignment: 9
-      pivot: {x: 0.018681454, y: 0.365}
+      pivot: {x: 0.35600868, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -644,7 +644,7 @@ TextureImporter:
         width: 102
         height: 163
       alignment: 9
-      pivot: {x: 0.019129137, y: 0.365}
+      pivot: {x: 0.36724016, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -665,7 +665,7 @@ TextureImporter:
         width: 104
         height: 163
       alignment: 9
-      pivot: {x: 0.019892765, y: 0.365}
+      pivot: {x: 0.36335638, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -686,7 +686,7 @@ TextureImporter:
         width: 94
         height: 163
       alignment: 9
-      pivot: {x: 0.022471327, y: 0.365}
+      pivot: {x: 0.3527105, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -707,7 +707,7 @@ TextureImporter:
         width: 76
         height: 163
       alignment: 9
-      pivot: {x: 0.025506271, y: 0.365}
+      pivot: {x: 0.3248548, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -728,7 +728,7 @@ TextureImporter:
         width: 66
         height: 163
       alignment: 9
-      pivot: {x: 0.1866862, y: 0.365}
+      pivot: {x: 0.34132338, y: 0.36319017}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

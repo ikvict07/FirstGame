@@ -69,8 +69,8 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
     resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 1
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -156,19 +156,19 @@ TextureImporter:
       name: AlienAttack_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 55
-        width: 96
+        x: 50
+        y: 53
+        width: 92
         height: 126
       alignment: 9
-      pivot: {x: 0.6131742, y: 0.66}
+      pivot: {x: 0.57557565, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee624fd0b0337624bb03efb4a66a9995
-      internalID: -1595819984
+      spriteID: 3bde6a8cadb3d5a45a1a7b8a4c1e6a27
+      internalID: 1718976664
       vertices: []
       indices: 
       edges: []
@@ -177,19 +177,19 @@ TextureImporter:
       name: AlienAttack_1
       rect:
         serializedVersion: 2
-        x: 247
-        y: 55
-        width: 94
+        x: 242
+        y: 53
+        width: 85
         height: 126
       alignment: 9
-      pivot: {x: 0.6195335, y: 0.66}
+      pivot: {x: 0.5626393, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c969e4c1f837e94789b300ee0c58e6a
-      internalID: 1219217199
+      spriteID: 92b70934186144940ab440383d2b159d
+      internalID: 42272903
       vertices: []
       indices: 
       edges: []
@@ -198,19 +198,19 @@ TextureImporter:
       name: AlienAttack_2
       rect:
         serializedVersion: 2
-        x: 442
-        y: 55
-        width: 92
+        x: 429
+        y: 53
+        width: 83
         height: 126
       alignment: 9
-      pivot: {x: 0.6032685, y: 0.66}
+      pivot: {x: 0.56720304, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 665d7feac87a5bd4a8070f88a993e46f
-      internalID: -895058326
+      spriteID: af9baa0a4c0f3894cb1c9d51fb3d476a
+      internalID: -1768219931
       vertices: []
       indices: 
       edges: []
@@ -219,19 +219,19 @@ TextureImporter:
       name: AlienAttack_3
       rect:
         serializedVersion: 2
-        x: 635
-        y: 54
-        width: 96
+        x: 614
+        y: 52
+        width: 87
         height: 126
       alignment: 9
-      pivot: {x: 0.6034495, y: 0.66}
+      pivot: {x: 0.5611993, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7872238571605ea419b97a17ff103890
-      internalID: 1166946966
+      spriteID: cd2b08b0c75aad846bbfceead87ef7ee
+      internalID: 1204139491
       vertices: []
       indices: 
       edges: []
@@ -240,19 +240,19 @@ TextureImporter:
       name: AlienAttack_4
       rect:
         serializedVersion: 2
-        x: 832
-        y: 53
-        width: 99
+        x: 802
+        y: 51
+        width: 89
         height: 126
       alignment: 9
-      pivot: {x: 0.6309426, y: 0.66}
+      pivot: {x: 0.5897361, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54e061ffc15dc954188928a999d8f9f2
-      internalID: 1293070209
+      spriteID: 43d4bda667b7a4148a439cdabdb3d1b5
+      internalID: 866421185
       vertices: []
       indices: 
       edges: []
@@ -261,19 +261,19 @@ TextureImporter:
       name: AlienAttack_5
       rect:
         serializedVersion: 2
-        x: 1032
-        y: 53
-        width: 99
+        x: 993
+        y: 52
+        width: 90
         height: 126
       alignment: 9
-      pivot: {x: 0.6339148, y: 0.66}
+      pivot: {x: 0.59296334, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 294fa9b2445d8ad4fbb6f2d14359d31f
-      internalID: 1234874209
+      spriteID: a125737835b522749af1ce1c85ad2ac5
+      internalID: -1402186100
       vertices: []
       indices: 
       edges: []
@@ -282,19 +282,19 @@ TextureImporter:
       name: AlienAttack_6
       rect:
         serializedVersion: 2
-        x: 1232
-        y: 52
-        width: 97
+        x: 1183
+        y: 50
+        width: 89
         height: 126
       alignment: 9
-      pivot: {x: 0.6404463, y: 0.66}
+      pivot: {x: 0.5726428, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d7f7f4085a8050409429804276fa8f9
-      internalID: -934908576
+      spriteID: 05017b68da88cb446a304e7497d6f5a6
+      internalID: -489875638
       vertices: []
       indices: 
       edges: []
@@ -303,19 +303,19 @@ TextureImporter:
       name: AlienAttack_7
       rect:
         serializedVersion: 2
-        x: 1430
-        y: 52
-        width: 98
+        x: 1374
+        y: 50
+        width: 91
         height: 126
       alignment: 9
-      pivot: {x: 0.6402164, y: 0.66}
+      pivot: {x: 0.5835833, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4e7082a504b23642804566e56d53acf
-      internalID: -163788669
+      spriteID: 2d00183f3ba2d334ba056d7d32682d22
+      internalID: -26547787
       vertices: []
       indices: 
       edges: []
@@ -324,19 +324,19 @@ TextureImporter:
       name: AlienAttack_8
       rect:
         serializedVersion: 2
-        x: 1629
-        y: 51
-        width: 99
+        x: 1567
+        y: 52
+        width: 93
         height: 126
       alignment: 9
-      pivot: {x: 0.6309383, y: 0.66}
+      pivot: {x: 0.58723956, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b424594fa9cd0584aa4921fa7335d2d3
-      internalID: -1881737720
+      spriteID: fb988f72455362f4f9ba2e9df3ea94d3
+      internalID: 1365179883
       vertices: []
       indices: 
       edges: []
@@ -345,19 +345,19 @@ TextureImporter:
       name: AlienAttack_9
       rect:
         serializedVersion: 2
-        x: 1829
-        y: 54
-        width: 98
+        x: 1761
+        y: 53
+        width: 89
         height: 126
       alignment: 9
-      pivot: {x: 0.63488644, y: 0.66}
+      pivot: {x: 0.6054029, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68e10d01808aed84b9e1afcd48e27584
-      internalID: 1277722517
+      spriteID: 5c775e2b4423cc540bba56adb28f5412
+      internalID: 117923798
       vertices: []
       indices: 
       edges: []
@@ -366,19 +366,19 @@ TextureImporter:
       name: AlienAttack_10
       rect:
         serializedVersion: 2
-        x: 2027
-        y: 57
-        width: 109
+        x: 1952
+        y: 53
+        width: 102
         height: 126
       alignment: 9
-      pivot: {x: 0.5896758, y: 0.66}
+      pivot: {x: 0.5857556, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cef0da0117341e45aa4c71c3b5c4b5a
-      internalID: -1845728958
+      spriteID: 7b5cdd26ebaecda4f8b60235f7b1acda
+      internalID: -910124391
       vertices: []
       indices: 
       edges: []
@@ -387,19 +387,313 @@ TextureImporter:
       name: AlienAttack_11
       rect:
         serializedVersion: 2
-        x: 2239
-        y: 56
-        width: 125
+        x: 2156
+        y: 51
+        width: 114
         height: 126
       alignment: 9
-      pivot: {x: 0.532332, y: 0.66}
+      pivot: {x: 0.5656096, y: 0.67}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 649ad50eaae1f1a49b2a8fd068f05f8a
-      internalID: 532872847
+      spriteID: af93ef1fa0521f84a841b1bdbee512e4
+      internalID: -875400895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 51
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5820265, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ecb55973a663b4493bd454afc666a3
+      internalID: -482749945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 52
+        width: 98
+        height: 126
+      alignment: 9
+      pivot: {x: 0.58149564, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ca536802b8f784a8d684efe7a8c40c
+      internalID: 1167701881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 52
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5779114, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe517b599160a94cbfe9a4d017000d1
+      internalID: -581929191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 52
+        width: 91
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5891569, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12fd267735f76419096ec23597bb6f
+      internalID: -27620573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_16
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 53
+        width: 104
+        height: 126
+      alignment: 9
+      pivot: {x: 0.54388195, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2dde9198699b34096a913aebe6fe13
+      internalID: 233183107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_17
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 52
+        width: 124
+        height: 126
+      alignment: 9
+      pivot: {x: 0.54396105, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14c50081cbba84485695521a71b72b
+      internalID: 1451423161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_18
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 51
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.52243716, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff040c2649bd2de44a928757a8b2f0f1
+      internalID: -492953063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_19
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 53
+        width: 100
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5405664, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ddb13e551d2cc44918086367584cd0
+      internalID: 1674881952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_20
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 52
+        width: 92
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5716526, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65631963c2c4f4480d7ab1a3380de6
+      internalID: -334076067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_21
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 52
+        width: 94
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5687801, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cade627722903469ddd5ee0523d4f6
+      internalID: -1949288565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_22
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 52
+        width: 95
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5787315, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e806334241313d4b8338ae4cb17279d
+      internalID: 1322848116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 52
+        width: 95
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5747276, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e34a26aae923f43bb445845ac58e21
+      internalID: -392930894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_24
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 54
+        width: 110
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5460982, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289fb26601a78e243807957f7b255ff4
+      internalID: 1144961210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienAttack_25
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 52
+        width: 135
+        height: 126
+      alignment: 9
+      pivot: {x: 0.51878256, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e847834973a264b923b6f55d1cb93b
+      internalID: 848776443
       vertices: []
       indices: 
       edges: []
@@ -415,18 +709,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      AlienAttack_3: 1166946966
-      AlienAttack_0: -1595819984
-      AlienAttack_10: -1845728958
-      AlienAttack_7: -163788669
-      AlienAttack_6: -934908576
-      AlienAttack_11: 532872847
-      AlienAttack_2: -895058326
-      AlienAttack_1: 1219217199
-      AlienAttack_5: 1234874209
-      AlienAttack_9: 1277722517
-      AlienAttack_8: -1881737720
-      AlienAttack_4: 1293070209
+      AlienAttack_15: -27620573
+      AlienAttack_3: 1204139491
+      AlienAttack_0: 1718976664
+      AlienAttack_10: -910124391
+      AlienAttack_19: 1674881952
+      AlienAttack_18: -492953063
+      AlienAttack_7: -26547787
+      AlienAttack_12: -482749945
+      AlienAttack_25: 848776443
+      AlienAttack_6: -489875638
+      AlienAttack_11: -875400895
+      AlienAttack_2: -1768219931
+      AlienAttack_24: 1144961210
+      AlienAttack_13: 1167701881
+      AlienAttack_1: 42272903
+      AlienAttack_20: -334076067
+      AlienAttack_16: 233183107
+      AlienAttack_17: 1451423161
+      AlienAttack_21: -1949288565
+      AlienAttack_23: -392930894
+      AlienAttack_5: -1402186100
+      AlienAttack_9: 117923798
+      AlienAttack_14: -581929191
+      AlienAttack_8: 1365179883
+      AlienAttack_22: 1322848116
+      AlienAttack_4: 866421185
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
