@@ -9,6 +9,9 @@ public class SecondAttack : StateMachineBehaviour
 
     public KnightAttack knightAttack;
     private KnightCombatController knightCombatController;
+    private int numOfAttack = 2;
+    private AudioSource audioSource;
+    [SerializeField]private AudioClip secondAttackSound;
     
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
@@ -17,6 +20,10 @@ public class SecondAttack : StateMachineBehaviour
         knightAttack = animator.GetComponent<KnightAttack>();
         knightCombatController = animator.GetComponent<KnightCombatController>();
         knightCombatController.didAttack = false;
+        
+        audioSource = animator.GetComponent<AudioSource>();
+        audioSource.clip = secondAttackSound;
+        audioSource.Play();
 
     }
 
@@ -32,7 +39,7 @@ public class SecondAttack : StateMachineBehaviour
 
         if (knightCombatController.attackFrame && !knightCombatController.didAttack)
         {
-            knightCombatController.DoAttack();
+            knightCombatController.DoAttack(numOfAttack);
         }
     }
 

@@ -1,4 +1,5 @@
 
+using System;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -11,7 +12,7 @@ public class KnightMovement : Subject
     [SerializeField] public Transform groundCheck;
     [SerializeField] private bool isGrounded;
     private const float GroundRadius = 0.2f;
-    [SerializeField] public float maxSpeed = 10f;
+    [SerializeField] public float maxSpeed;
     [SerializeField] public bool isFacingRight = true;
     [SerializeField] public float move;
     [SerializeField] private AnimFunctionsKnight animfuncs;
@@ -95,6 +96,7 @@ public class KnightMovement : Subject
         PlayerPrefs.SetFloat(PlayerYPositionKey, transform.position.y);
         PlayerPrefs.Save();
     }
+
     
 }
 

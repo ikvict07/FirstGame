@@ -66,10 +66,12 @@ using UnityEngine;
 
 public class AnimKnightAttack : StateMachineBehaviour {
 
-    
+    [SerializeField] private AudioClip attackMissSound;
+    [SerializeField] private AudioSource audioSource;
+
     public KnightAttack knightAttack;
     private KnightCombatController knightCombatController;
-    
+    private int numOfAttack = 1;
     private GameObject knight;
 
     public override void OnStateEnter (Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
@@ -82,6 +84,9 @@ public class AnimKnightAttack : StateMachineBehaviour {
         knightCombatController = animator.GetComponent<KnightCombatController>();
         knightCombatController.didAttack = false;
         
+        audioSource = animator.GetComponent<AudioSource>();
+        audioSource.clip = attackMissSound;
+        audioSource.Play();
 
     }
 
@@ -93,7 +98,7 @@ public class AnimKnightAttack : StateMachineBehaviour {
         }
         if (knightCombatController.attackFrame && !knightCombatController.didAttack)
         {
-            knightCombatController.DoAttack();
+            knightCombatController.DoAttack(numOfAttack);
         }
 
     }

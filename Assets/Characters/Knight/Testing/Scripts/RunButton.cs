@@ -15,7 +15,6 @@ public class RunButton : MonoBehaviour
     private bool rightButton;
     private float move;
     
-    private Animator animator;
     
     private KnightRecoil recoil;
     private KnightDash dash;
@@ -25,7 +24,6 @@ public class RunButton : MonoBehaviour
 
     private void Start()
     {
-        animator = GetComponent<Animator>();
         movement = GetComponent<KnightMovement>();
         recoil = GetComponent<KnightRecoil>();
         dash = GetComponent<KnightDash>();
@@ -76,7 +74,6 @@ public class RunButton : MonoBehaviour
             
             move = rightButton ? 1 : -1;
             movement.onButtonPress(move);
-            
             
             heldDown = false;
         }

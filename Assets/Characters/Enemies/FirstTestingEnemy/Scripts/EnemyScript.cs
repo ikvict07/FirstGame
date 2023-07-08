@@ -1,31 +1,34 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class EnemyScript : MonoBehaviour
 {
-    [SerializeField] public float Health;
-    private AlienTakeDamage alienTakeDamage;
-    
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] public float MaxHealth;
+    [FormerlySerializedAs("Health")] [SerializeField] public float CurrentHealth;
+    [SerializeField]private TakeDamage takeDamage;
+    [SerializeField] private Die dieScript;
+    [SerializeField] public bool isDead = false;
+
+
+    private void Start()
     {
-        Health = 100f;
-        alienTakeDamage = GetComponent<AlienTakeDamage>();
+        CurrentHealth = MaxHealth;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void TakeDamage(float damage, int numOfAttack)
     {
-        if (Health <= 0)
+        takeDamage._TakeDamage(damage, numOfAttack);
+    }
+
+    private void Update()
+    {
+        if (CurrentHealth <= 0 && !isDead)
         {
-            gameObject.SetActive(false);
+            isDead = true;
+            dieScript._Die();
         }
-    }
-
-    public void TakeDamage(float damage)
-    {
-        alienTakeDamage.TakeDamage(damage);
-
     }
 }

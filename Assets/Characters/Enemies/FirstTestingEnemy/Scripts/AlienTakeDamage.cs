@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AlienTakeDamage : MonoBehaviour
+public class AlienTakeDamage : TakeDamage
 {   
     public SpriteRenderer spriteRenderer;
     public Material redFlashMaterial;
@@ -20,14 +20,16 @@ public class AlienTakeDamage : MonoBehaviour
     private bool isFacingRight;
 
     [SerializeField] private EnemyWalk enemyWalk;
-
-    [SerializeField ]public void TakeDamage(float damage)
+    
+    public override void _TakeDamage(float damage, int numOfAttack)
     {
+        
+        
         spriteRenderer.material = redFlashMaterial;
         ApplyKnockback(isFacingRight);
         StartCoroutine(Stun());
         StartCoroutine(BecomeNormal());
-        enemyScript.Health -= damage;
+        enemyScript.CurrentHealth -= damage;
         
     }
 
@@ -40,6 +42,8 @@ public class AlienTakeDamage : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
+        
         enemyScript = GetComponent<EnemyScript>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         enemyWalk = GetComponent<EnemyWalk>();
@@ -56,6 +60,7 @@ public class AlienTakeDamage : MonoBehaviour
 
     void ApplyKnockback(bool knockbackDirection)
     {
+        Debug.Log("Knockback");
         isFacingRight = enemyWalk.isFacingRight;
         Vector2 knockbackAmount = new Vector2(isFacingRight ? knockbackDistance : -knockbackDistance, 0);
         StartCoroutine(KnockbackCoroutine(new Vector3(knockbackAmount.x, knockbackAmount.y, 0f)));
@@ -63,6 +68,8 @@ public class AlienTakeDamage : MonoBehaviour
 
     IEnumerator KnockbackCoroutine(Vector3 knockbackAmount)
     {
+        Debug.Log("KnockbackCoroutine");
+
         Vector3 startPosition = transform.position;
         float timer = 0f;
 

@@ -6,11 +6,18 @@ public class ThirdAttack : StateMachineBehaviour
 {
     private KnightCombatController knightCombatController;
 
+    private int numOfAttack = 3;
+    private AudioSource audioSource;
+    [SerializeField]private AudioClip thirdAttackSound;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         knightCombatController = animator.GetComponent<KnightCombatController>();
         knightCombatController.didAttack = false;
+        
+        audioSource = animator.GetComponent<AudioSource>();
+        audioSource.clip = thirdAttackSound;
+        audioSource.Play();
 
     }
 
@@ -19,7 +26,7 @@ public class ThirdAttack : StateMachineBehaviour
     {
         if (knightCombatController.attackFrame && !knightCombatController.didAttack)
         {
-            knightCombatController.DoAttack();
+            knightCombatController.DoAttack(numOfAttack);
         }
     }
 
